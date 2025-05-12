@@ -9,3 +9,7 @@ This repository's [issue tracker](https://github.com/fedidcg/admin/issues) is wh
 ## Code of Conduct
 
 As a W3C Community Group, all work and communication within the Federated Identity CG is covered by the [W3C Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
+
+# Meetings
+
+Note that all meeting notes for combined FedID WG/CG meetings are now in the [FedID WG meeting repository](https://github.com/w3c-fedid/meetings).
